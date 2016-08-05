@@ -1,2 +1,1 @@
-# barbershophtml
 Привет!
